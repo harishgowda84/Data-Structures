@@ -1,6 +1,6 @@
 package linkedlist;
 
-//added comment
+//this is updated
 public class LinkedList {
 	
 	public Node head;
