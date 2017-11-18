@@ -1,5 +1,5 @@
 package linkedlist;
-//this is comment
+	
 public class LinkedListImpl {
 
 	public static void main(String[] args) {
